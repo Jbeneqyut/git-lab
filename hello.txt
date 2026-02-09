@@ -1,2 +1,3 @@
 ECHO is on.
 "Git is powerful" 
+"Student A edit" 
